@@ -5,7 +5,7 @@ Simple whatsapp bot | Reedited from whatsasena
 <div align="center">
   <img border-radius: 15px src="https://imgur.com/a/Ft6b89Z.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="PROFESSOR" src="https://img.shields.io/badge/PROFESSOR-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="PROFESSOR" src="https://img.shields.io/badge/PROFESSOR-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/joker153/Professor_v1"><img title="Author" src="https://img.shields.io/badge/AUTHOR-PROFESSOR-blue?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
